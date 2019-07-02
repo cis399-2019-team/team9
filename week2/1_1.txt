@@ -1,4 +1,4 @@
-Name: mapu-test-maxi
+Name: mapu-MaXi
 
 ID: i-0780915ddcccfc657
 
