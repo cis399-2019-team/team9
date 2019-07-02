@@ -1,0 +1,5 @@
+Name: mapu-test-maxi
+
+ID: i-0780915ddcccfc657
+
+Private IP Adress: 10.0.3.247
