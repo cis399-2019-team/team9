@@ -6,9 +6,7 @@
 
 ## Put up a web page on your system in its document root. Send me the URLs to that page (`http://ip-x-x-x-x.aws.amazon.com/foo.html` and I'll try to retrieve it.
 
-```
-http://ec2-54-201-34-210.us-west-2.compute.amazonaws.com/
-```
+Currently it is "[http://ec2-34-221-75-250.us-west-2.compute.amazonaws.com/index.html]("http://ec2-34-221-75-250.us-west-2.compute.amazonaws.com/index.html")"
 
 ## In addition, find log messages showing accesses to a web page in your web server document root, and send me samples of those log messages.
 
