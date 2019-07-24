@@ -72,5 +72,5 @@ ubuntu@ip-10-0-6-235:~$ tail -f /var/log/nginx/access.log
 
 ## Indicate the Puppet code you use to replicate content between your web server instances.
 
-In our "Maxi-pupet" repository, the module "pageserver_jerryx" was used to deploy the web page server.
+In my repository, the module "pageserver_jerryx" was used to deploy the web page server.
 
