@@ -25,6 +25,11 @@ root@ip-10-0-9-29:~# cat /home/Mapu/.ssh/authorized_keys
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDHfT9V5ERJ9sGiPwqijec52HiaEKxKoPuW2ehz8Te2g/cBAHWi8jQz8X+KvEb/Nqmv0Q29N1WkUWzGAjjRQP9Cyhe5NN2DVTD5FjX9W8YFoMxHBIBAvK68I1PTSYrkh7A6UtfsRx0bxg/uEfjRzstU+D0mg7T+x6ysuMjs6+HVXVNAj+Qr0NAkaMnMoYFlUP62/jCyiH8xliyW4pk65tNbLLDxD4i1631F4WiWfdSZgX3ZHwA7QgMpaEoRa9Pgee6NpzUBHgyWei9XKEnhfsIZtrx9wIJ824wnqOVqx6XkG8CCGipWyTy50xX5X/YG1YMknotRFvv8/cLar/Tdw5lj Mapu
 root@ip-10-0-9-29:~# cat /etc/passwd | grep Mapu
 Mapu:x:1003:1003:Puppet managed user:/home/Mapu:/bin/bash
+ubuntu@ip-10-0-9-29:~$ ls -l /home/ | grep Mapu
+drwxr-xr-x 3 Mapu         Mapu         4096 Jul 25 00:12 Mapu
+ubuntu@ip-10-0-9-29:~$ sudo ls -l /home/Mapu/.ssh/
+total 4
+-rw------- 1 Mapu Mapu 559 Jul 25 00:12 authorized_keys
 root@ip-10-0-9-29:~#
 ```
 
