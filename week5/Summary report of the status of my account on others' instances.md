@@ -2,13 +2,14 @@
 
 # Summary report of the status of my account on others' instances
 
-| Team        | Able to log in? |
-| ----------- | --------------- |
-| Aquabee     | True            |
-| MapMoney    | True            |
-| Team Rocket | True            |
-| defaultName | True            |
-| Team1       | True            |
+| Team             | Able to log in? |
+| ---------------- | --------------- |
+| Aquabee          | True            |
+| MapMoney         | True            |
+| Team Rocket      | True            |
+| defaultName      | True            |
+| Team1            | True            |
+| Team Garbage bin | True            |
 
 # Log from "last" command(Successful log-in accounts)
 
